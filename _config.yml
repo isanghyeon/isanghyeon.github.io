@@ -39,7 +39,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/isanghyeon       # change to your github homepage
-      http://logos.sch.ac.kr
+    - http://logos.sch.ac.kr
+
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
