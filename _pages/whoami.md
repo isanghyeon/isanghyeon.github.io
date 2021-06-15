@@ -2,8 +2,17 @@
 layout: post
 title: "Who am I"
 author: "isanghyeon"
-permalink: /whomai/
+permalink: /whoami/
 ---
+
+# Profile
+## Name
+- > Sang-Hyeon Lee (isanghyeon, cpd4268@naver.com)
+## NickName
+- > LeeSH, cpd4268
+## :ㅂ:
+
+
 
 A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
 
