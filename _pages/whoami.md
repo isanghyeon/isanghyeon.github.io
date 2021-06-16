@@ -7,9 +7,9 @@ permalink: /whoami/
 
 # Profile
 ## Name
-- > Sang-Hyeon Lee (isanghyeon, cpd4268@naver.com)
+> Sang-Hyeon Lee (isanghyeon, cpd4268@naver.com)
 ## NickName
-- > LeeSH, cpd4268
+> LeeSH, cpd4268
 ## :ㅂ:
 
 
