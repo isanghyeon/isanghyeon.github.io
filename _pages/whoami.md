@@ -33,7 +33,7 @@ permalink: /whoami/
 > ##### Security First, Dept. Information Security Academic Club (Soonchunhyang University), Student, (2020.03 ~ 2021.07)
 
 ### ## INTERESTS
- Web vulnerabilities Exploitation
- Cryptography application
- Network Security
- Algorithm for Data Structure Development
+Web vulnerabilities Exploitation
+Cryptography application
+Network Security
+Algorithm for Data Structure Development
