@@ -13,9 +13,9 @@ permalink: /whoami/
 >> ### h9e@n
 
 ### ## ORGANIZATION
-> **Dept. Information Security (Soonchunhyang University)**, Undergraduate Student, 2020.03 ~ now
-> **Cryptography Application Lab (Soonchunhyang University)**, Researcher, 2020.10 ~ now
-> **Dropper Lab**, Cyber-Security Team, Management, 2020.09 ~ now
+> #####  **Dept. Information Security (Soonchunhyang University)**, Undergraduate Student, 2020.03 ~ now
+> #####  **Cryptography Application Lab (Soonchunhyang University)**, Researcher, 2020.10 ~ now
+> #####  **Dropper Lab**, Cyber-Security Team, Management, 2020.09 ~ now
 
 ### ## Career
 ##### **Capture The Flag - Operator**
@@ -33,7 +33,7 @@ permalink: /whoami/
 > ##### Security First, Dept. Information Security Academic Club (Soonchunhyang University), Student, (2020.03 ~ 2021.07)
 
 ### ## INTERESTS
-Web vulnerabilities Exploitation
-Cryptography application
-Network Security
-Algorithm for Data Structure Development
+> ##### Web vulnerabilities Exploitation
+> ##### Cryptography application
+> ##### Network Security
+> ##### Algorithm for Data Structure Development
