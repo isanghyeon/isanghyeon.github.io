@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
-tags: Tale
+title:  "FIESTA 2021 Write up"
+author: "isanghyeon"
+tags: CTF
 excerpt_separator: <!--more-->
 sticky: true
 hidden: true
