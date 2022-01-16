@@ -8,10 +8,14 @@ permalink: /whoami
 ### PROFILE
 - ##### _Sang Hyeon Lee_ (isanghyeon, h9e@n, cpd4268@sch.ac.kr)
 
+<br>
+
 ### ORGANIZATION
 - ##### 2020.03-now / Dept. Information Security Soonchunhyang Univ. / Undergraduate Student
 - ##### 2020.10-now / Cryptography Application Lab (Soonchunhyang Univ.) / Researcher
 - ##### 2020.09-now / Dropper Lab (Cyber-Security Research Team) / Executive 
+
+<br> 
 
 ### CAREER
 #### # Awards and Honors (confirmation documents)
@@ -50,6 +54,7 @@ permalink: /whoami
 - ##### 2022.02 /  (Korea Institute Of Communication Sciences)
 - ##### 2022.02 /  (Korea Institute Of Communication Sciences)
 
+<br>
 
 ### INTERESTS
 - ##### Web vulnerabilities Exploitation 
