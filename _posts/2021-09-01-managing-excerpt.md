@@ -2,7 +2,7 @@
 layout: post
 title: "Managing Excerpt"
 author: "Chester"
-tags: Tutorial
+tags: Dreamhack
 excerpt_separator: <!--more-->
 ---
 
