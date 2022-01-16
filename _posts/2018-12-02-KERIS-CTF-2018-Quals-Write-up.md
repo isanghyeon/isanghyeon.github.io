@@ -74,7 +74,7 @@ FLAG{Fak3_L0v3_i5_7h3_s3v3n733n7h_n0n-Engli5h_50ng}
 > 1. 라우터의 기본적인 정보를 확인하고 첫 번째 FLAG{}를 획득하시오.
 <pre><code>
 Router> show version 
-[+] FLAG1{C15c0_Pack3t_Tr4c3r_H4ve_U}
+  [+] FLAG1{C15c0_Pack3t_Tr4c3r_H4ve_U}
 </code></pre>
 
 > 2. 라우터의 이름을 keris2018로 설정하고. enable secret을 keris2018secret으로. enble password를 whoisthewinnerofkeris2018로 설정하는 명령어를 차례대로 입력하고 FLAG2{}를 획득하시오.
