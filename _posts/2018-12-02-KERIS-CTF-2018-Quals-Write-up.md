@@ -33,13 +33,13 @@ tags: CTF
 - #### System 2 - exec (400P)
 > nc 서버로 접속하면 "Which command do you want to execute?" 라는 문자열이 출력된다.  
 > "ls" 명령어를 통해 현재 디렉토리의 파일을 확인해보니 flag 파일이 존재했고, "cat flag" 명령어를 사용해 flag를 읽을 수 있었다.  
-```bash 
-nc server port 
-Which command do you wnat to execute? 
-ls 
-cat flag 
-FLAG{Fak3_L0v3_i5_7h3_s3v3n733n7h_n0n-Engli5h_50ng}
-```
+> <pre><code>
+> nc server port 
+> Which command do you wnat to execute? 
+> ls 
+> cat flag 
+> FLAG{Fak3_L0v3_i5_7h3_s3v3n733n7h_n0n-Engli5h_50ng}
+> </code></pre>
 
 <hr/>
 <br>
@@ -49,9 +49,7 @@ FLAG{Fak3_L0v3_i5_7h3_s3v3n733n7h_n0n-Engli5h_50ng}
 > 웹 페이지에 접속하면 modal 형태의 로그인과 회원가입 창을 보여준다.  
 > 소스코드 보기를 통해 주석 처리된 review.php 경로를 알 수 있었고, 해당 페이지에 접속하면 review.php 코드를 보여준다.  
 > 코드를 통해 해당 서버는 MySQL 환경을 사용하고 있음을 알 수 있고, SQL injection 이 가능하다.  
-```SQL 
-query: ' or '1'='1 
-```
+<pre><code>query: ' or '1'='1 </code></pre>
 
 - #### Web 2 - Puzzle (400P)
 > 웹 페이지에 접속하면 어떤 이미지를 무작위로 잘라 보여주고 있다.  
@@ -69,20 +67,18 @@ query: ' or '1'='1
 
 <img src="https://raw.githubusercontent.com/isanghyeon/isanghyeon.github.io/main/images/2018-12-02-KERIS-CTF-2018-Quals-Write-up/FLAG-images.png" width="600px" height="400px" title="FLAG"/>
 
-```bash
-flag{N3tw0rk_Ch@llenge_SOlv3d!_Congr@tz!!}
-```
+<pre><code>flag{N3tw0rk_Ch@llenge_SOlv3d!_Congr@tz!!}</code></pre>
 
 - #### Network 2 - Router (500P)
 > Cisco Router의 IOS 문제였다.  
 > > 1. 라우터의 기본적인 정보를 확인하고 첫 번째 FLAG{}를 획득하시오.
-> ```bash
+> <pre><code>
 > Router> show version 
 > [+] FLAG1{C15c0_Pack3t_Tr4c3r_H4ve_U}
-> ```
+> </code></pre>
 >  
 > > 2. 라우터의 이름을 keris2018로 설정하고. enable secret을 keris2018secret으로. enble password를 whoisthewinnerofkeris2018로 설정하는 명령어를 차례대로 입력하고 FLAG2{}를 획득하시오.  
-> ```bash
+> <pre><code>
 > Router> enable
 > Router# configure terminal
 > Router(config)# hostname keris2018
@@ -93,21 +89,17 @@ flag{N3tw0rk_Ch@llenge_SOlv3d!_Congr@tz!!}
 >   [+] Ok, you set enable password
 >
 >   [+] FLAG2{Ev3r_u5ed_itttttt?}
-> ```
+> </code></pre>
 >  
 > > 3. enable shell에 접속하기 위한 패스워드의 암호화된 값을 볼 수 있는 명령어를 이용하여 암호화된 패스워드의 값을 확인하고, 해당 값을 FLAG로 입력하시오.  
-> ```bash  
+> <pre><code>
 > Router(config)# exit
 > Router# show running-config
 >   enable secret 5 $1$mERr$ATL1hEB9UJOrNnI6iWy.R/
 >   enable password 7 08364441000A111F171C050A242E3627353E27010E0551510701
->```
->```bash
-> FLAG: FLAG1_FLAG2_encrypt1234
-> ```
-> ```bash
-> flag{C15c0_Pack3t_Tr4c3r_H4ve_U_Ev3r_u5ed_itttttt?_08364441000A111F171C050A242E3627353E27010E0551510701}
-> ```
+> </code></pre>
+> <pre><code>FLAG: FLAG1_FLAG2_encrypt1234</code></pre>
+> <pre><code> flag{C15c0_Pack3t_Tr4c3r_H4ve_U_Ev3r_u5ed_itttttt?_08364441000A111F171C050A242E3627353E27010E0551510701}</code></pre>
 
 <hr/>
 <br>
