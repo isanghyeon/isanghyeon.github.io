@@ -15,7 +15,7 @@ tags: CTF
 <hr/>
 <br>
 
-<img src="https://raw.githubusercontent.com/isanghyeon/isanghyeon.github.io/main/images/2018-12-02-KERIS-CTF-2018-Quals-Write-up/Solved.png" width="800px" height="300px" title="Solved"/>
+<img src="https://raw.githubusercontent.com/isanghyeon/isanghyeon.github.io/main/images/2018-12-02-KERIS-CTF-2018-Quals-Write-up/Solved.png" width="600px" height="400px" title="Solved"/>
 
 <br>
 <hr/>
