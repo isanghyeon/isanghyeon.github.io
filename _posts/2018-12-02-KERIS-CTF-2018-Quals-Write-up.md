@@ -70,14 +70,14 @@ tags: CTF
 <pre><code>flag{N3tw0rk_Ch@llenge_SOlv3d!_Congr@tz!!}</code></pre>
 
 - #### Network 2 - Router (500P)
-> Cisco Router의 IOS 문제였다.  
+> Cisco Router의 IOS 문제였다.
 > > 1. 라우터의 기본적인 정보를 확인하고 첫 번째 FLAG{}를 획득하시오.
 > <pre><code>
 > Router> show version 
 > [+] FLAG1{C15c0_Pack3t_Tr4c3r_H4ve_U}
 > </code></pre>
 >  
-> > 2. 라우터의 이름을 keris2018로 설정하고. enable secret을 keris2018secret으로. enble password를 whoisthewinnerofkeris2018로 설정하는 명령어를 차례대로 입력하고 FLAG2{}를 획득하시오.  
+> > 2. 라우터의 이름을 keris2018로 설정하고. enable secret을 keris2018secret으로. enble password를 whoisthewinnerofkeris2018로 설정하는 명령어를 차례대로 입력하고 FLAG2{}를 획득하시오.
 > <pre><code>
 > Router> enable
 > Router# configure terminal
@@ -91,7 +91,7 @@ tags: CTF
 >   [+] FLAG2{Ev3r_u5ed_itttttt?}
 > </code></pre>
 >  
-> > 3. enable shell에 접속하기 위한 패스워드의 암호화된 값을 볼 수 있는 명령어를 이용하여 암호화된 패스워드의 값을 확인하고, 해당 값을 FLAG로 입력하시오.  
+> > 3. enable shell에 접속하기 위한 패스워드의 암호화된 값을 볼 수 있는 명령어를 이용하여 암호화된 패스워드의 값을 확인하고, 해당 값을 FLAG로 입력하시오.
 > <pre><code>
 > Router(config)# exit
 > Router# show running-config
