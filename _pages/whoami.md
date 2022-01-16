@@ -54,6 +54,9 @@ permalink: /whoami
 - ##### 2022.02 /  (Korea Institute Of Communication Sciences)
 - ##### 2022.02 /  (Korea Institute Of Communication Sciences)
 
+#### # certificate
+- ##### 2020.05 / 네트워크 관리사 2급 (최종 합격) / 한국정보통신자격협회
+
 <br>
 
 ### INTERESTS
