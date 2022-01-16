@@ -2,7 +2,7 @@
 layout: post
 title: "LoS gremlin"
 author: "isanghyeon"
-tags: LordofSQLi
+tags: wargame
 ---
 
 |문제 명|풀이 여부|URL|

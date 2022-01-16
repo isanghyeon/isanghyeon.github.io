@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Managing Excerpt"
-author: "Chester"
-tags: Dreamhack
+title: "DreamHack login 1"
+author: "isanghyeon"
+tags: wargame
 excerpt_separator: <!--more-->
 ---
 
