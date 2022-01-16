@@ -99,7 +99,7 @@ tags: CTF
 >   enable password 7 08364441000A111F171C050A242E3627353E27010E0551510701
 > </code></pre>
 > <pre><code>FLAG: FLAG1_FLAG2_encrypt1234</code></pre>
-> <pre><code> flag{C15c0_Pack3t_Tr4c3r_H4ve_U_Ev3r_u5ed_itttttt?_08364441000A111F171C050A242E3627353E27010E0551510701}</code></pre>
+> <pre><code>flag{C15c0_Pack3t_Tr4c3r_H4ve_U_Ev3r_u5ed_itttttt?_08364441000A111F171C050A242E3627353E27010E0551510701}</code></pre>
 
 <hr/>
 <br>
