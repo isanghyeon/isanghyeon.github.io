@@ -96,7 +96,7 @@ flag{N3tw0rk_Ch@llenge_SOlv3d!_Congr@tz!!}
 > ```
 >
 > > 3. enable shell에 접속하기 위한 패스워드의 암호화된 값을 볼 수 있는 명령어를 이용하여 암호화된 패스워드의 값을 확인하고, 해당 값을 FLAG로 입력하시오.  
-> ```bash
+> ```bash  
 > Router(config)# exit
 > Router# show running-config
 >   enable secret 5 $1$mERr$ATL1hEB9UJOrNnI6iWy.R/
